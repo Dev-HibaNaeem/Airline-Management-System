@@ -1,0 +1,3 @@
+123456|Tom|234567|Pakistan|3446677734|abc@gmail.com
+PI0002|rania|123345678|pakistan|3444832947|xyz@gmail.com
+PI0003|hamna|16453656|pakistani|34596564|wer@gmail.com
